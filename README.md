@@ -42,6 +42,7 @@ Flutter
 | excel              | Xuất file Excel          |
 | share_plus         | Chia sẻ file             |
 
+
 - Supported Platforms
 Ứng dụng được phát triển bằng Flutter nên có thể chạy trên:
 •	Android
